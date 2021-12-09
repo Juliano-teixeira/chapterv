@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "fulanodetalli@gmail.com",
+        "username": "fulanodetal",
+        "bio": null,
+        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImZ1bGFub2RldGFsQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiZnVsYW5vZGV0YWwiLCJiaW8iOm51bGwsImltYWdlIjoiaHR0cHM6Ly9hcGkucmVhbHdvcmxkLmlvL2ltYWdlcy9zbWlsZXktY3lydXMuanBlZyIsImlhdCI6MTYzODkxMzQzMiwiZXhwIjoxNjQ0MDk3NDMyfQ.OnDygTn0_Q3mKmFWWkjgtFQjw0SBMrm_hciJ-4CiMaM"
+    }
+}
